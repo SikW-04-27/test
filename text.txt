@@ -3,5 +3,5 @@ hahahahhaas
 Create a new branch is quick and simple.
 =======
 hahahahhaas
-Creating a new branch is quick and simple.
+Create a new branch is quick and simple.
 >>>>>>> featurel
