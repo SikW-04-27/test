@@ -1,2 +1,7 @@
-hahahahhaaa
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+hahahahhaas
+Create a new branch is quick and simple.
+=======
+hahahahhaas
+Creating a new branch is quick and simple.
+>>>>>>> featurel
